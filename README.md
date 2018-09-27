@@ -4,4 +4,4 @@ This repository is to determine how **yarn** and **npm** are working with the de
 
 ## Bedore push
 
-> Please don't commit `package-lock.json` and `yarn.lock`
+> Please check `package.json` to have the `package-init.json`
