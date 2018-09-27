@@ -1,0 +1,11 @@
+{
+  "name": "test-node_modules",
+  "version": "0.0.1",
+  "license": "MIT",
+  "contributors": [
+    "Fabien Crassat <fabien@crassat.com>"
+  ],
+  "dependencies": {
+    "lodash": "~4.16.2"
+  }
+}
