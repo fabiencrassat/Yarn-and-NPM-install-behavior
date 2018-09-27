@@ -2,6 +2,6 @@
 
 This repository is to determine how **yarn** and **npm** are working with the dependencies installation.
 
-## Bedore push
+## Before commit
 
-> Please check `package.json` to have the `package-init.json`
+> Check `package.json` to have the same file than `assets/package-init.json`
