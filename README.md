@@ -1,4 +1,4 @@
-# test-node_modules
+# Yarn and NPM install behavior
 
 This repository is to determine how **yarn** and **npm** are working with the dependencies installation.
 
